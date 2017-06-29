@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+abc	test.php	/^class abc {$/;"	c
+adb	test.php	/^    var $adb;$/;"	v
+arr	test.php	/^$arr = [$/;"	v
+a	test.php	/^    var $a;$/;"	v
+bbb	test.php	/^class bbb{$/;"	c
+b	test.php	/^    var $b;$/;"	v
+e	test.php	/^$e = 1;$/;"	v
+getArr	test.php	/^function getArr() {$/;"	f
+sdfsf	test.php	/^    var $sdfsf;$/;"	v
+ta1	testfun.php	/^function ta1() {$/;"	f
+tarr	test.php	/^$tarr = getArr();$/;"	v
+ttt	testfun.php	/^    var $ttt;$/;"	v
+tyu	testfun.php	/^class tyu {$/;"	c
